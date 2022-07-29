@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726671604737",
+    "project_id": "wetrace-d017d",
+    "storage_bucket": "wetrace-d017d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726671604737:android:7ba914f142ddcd0ab7d400",
+        "android_client_info": {
+          "package_name": "com.example.wetrace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726671604737-jtt01ion3b998bsi9nh731qj3vnqkc05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoBno0Aec0RP_e5HuX_I12ZYRRfvuWW7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726671604737-jtt01ion3b998bsi9nh731qj3vnqkc05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
