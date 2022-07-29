@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">726671604737-jtt01ion3b998bsi9nh731qj3vnqkc05.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">726671604737</string>
+    <string name="google_api_key" translatable="false">AIzaSyBoBno0Aec0RP_e5HuX_I12ZYRRfvuWW7c</string>
+    <string name="google_app_id" translatable="false">1:726671604737:android:7ba914f142ddcd0ab7d400</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBoBno0Aec0RP_e5HuX_I12ZYRRfvuWW7c</string>
+    <string name="google_storage_bucket" translatable="false">wetrace-d017d.appspot.com</string>
+    <string name="project_id" translatable="false">wetrace-d017d</string>
+</resources>
