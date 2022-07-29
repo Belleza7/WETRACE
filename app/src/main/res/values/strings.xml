@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">WeTrace</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCFcJHWsLijVgdLifFLvgHme1dtP5yncSg</string>
+    <string-array name="mumbai">
+        <item>Sion Collection Center, Shop 12, Hind Rajasthan Bldg, Sion Cosmpolitian Chs Opp Gate # 1 Sion Hospital.</item>
+        <item>Shop No-82, M-Avenue Bldg., No-11, Rustomjee Evershine Global City, Virar West - 401303</item>
+        <item>Shop No. 06, Raj Residency, Brahmand G.B Road, Thane (W), Mumbai – 400607</item>
+        <item>Shop No-61, Vastu Anand Complex, Narmada Nagar, Parsik Nagar, Kalwa West</item>
+        <item>Srl Limited, Shop No. 7, Bay View Building, Maharpakdi Road, Near Mumbai Darbar Restaurant, Mazgaon, Mumbai 400010</item>
+        <item>Srl Mumbai Reference Lab, Prime Square Building, Plot No 1, Gaiwadi Industrial Estate, S.V. Road, Goregaon (W), Mumbai</item>
+    </string-array>
+
+    <string-array name="navi">
+        <item>Srl Limited Shop No. 2, Aggrawal Orchid, Plot No. 56, Sector-15, Koparkhairane, Navi Mumbai - 400709, Maharashtra</item>
+        <item>Srl Limited, Shop No.4, Greenscape Royale, Plot No.-25, Sector 7, Near To Saraswat Bank, Kamothe, Navi Mumbai-410209, Maharashtra</item>
+    </string-array>
+
+    <string-array name="pune">
+        <item>King Square, Shop No 6, Near Medipoint Hospital, New Dp Road, Aundh Pune-411007</item>
+        <item>Shop No. 2, Old Kumar Sadan, 444, Somwar Peth, Rastewada Chowk, OPP. Bank Of Maharashtra, Pune, MAHATASHTRA 411001</item>
+        <item>Datta Niwas, Near Mulchand Sweets, Deep Bungalow Chowk, Opp. Deluxe Laundry, Model Colony - 411016</item>
+        <item>Shop. no. 7, Citypoint building, Boat club road, Pune</item>
+    </string-array>
+
+    <string-array name="nagpur">
+        <item>Psc Panchsheel Sqare, Shop No 6-D/7, Ghatate Building Oppo Panchsheel Theatre , Ramdaspeth ,Nagpur 440012</item>
+        <item>282, Central Bazar Road, Near Tuli Imperial Hotel Ramdas Peth, Nagpur - 440010</item>
+        <item>101, Indra Saryu doctors complex, chindwara road, Opposite INDUSIND BANK Chhaoni, Nagpur - 440013</item>
+        <item>G8, Anjuman Complex, 1st Floor, Above Masan Nursing Home Sadar, Nagpur - 440013</item>
+    </string-array>
+
+    <string-array name="thane">
+        <item>Qualilife Diagnostics, Balaji Arcade 1stFloor, 544 / A, N. S. Road, near Dhanwantri Hospital, Mulund West, Mumbai, Maharashtra 400080</item>
+        <item>InfeXn Laboratories Pvt Ltd, A/131, Rd Number 23, Wagle Industrial Estate, Thane West, Thane, Maharashtra 400604</item>
+        <item>H S Pathology Private Limited, Plot No A, 170, Rd Number 10, behind Old Passport Office, Wagle Estate, Thane West, Thane, Maharashtra 400604</item>
+    </string-array>
+</resources>
